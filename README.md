@@ -10,6 +10,6 @@ The Lightweight Charts™ license requires specifying TradingView as the product
 
 You can find proper docs folllowing: https://tradingview.github.io/lightweight-charts/
 
-If you are working with CDN link you need to use "LightweightCharts" object to access library methods.
+If you are working with CDN link you need to use "<b>LightweightCharts</b>" object to access library methods.
 
 <img width="738" height="656" alt="LightweightChartsMethods" src="https://github.com/user-attachments/assets/e11022a4-82a1-49d4-b977-18a5133e213a" />
