@@ -42,7 +42,7 @@ git clone https://github.com/madenix/Lightweight-Financial-Charts.git
 - Navigate into the cloned directory
 - Open any *.html file (e.g., BasicCandleSticks.html) directly in your web browser
 
-## ​💡 Understand structure
+## ​💡 Understand Structure
 
 Since the library is loaded via CDN, the entire charting functionality is exposed through the global `LightweightCharts` object. You can verify this by opening your browser's Developer Tools (F12) and typing `window` into the console.
 
