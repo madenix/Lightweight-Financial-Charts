@@ -1,15 +1,38 @@
 ​# 📈 Lightweight Financial Charts Examples
 
-​A collection of fundamental and advanced examples demonstrating how to implement financial charts using the TradingView Lightweight Charts library.
+A collection of fundamental and advanced examples demonstrating how to implement financial charts using the **TradingView Lightweight Charts** library.
 
-​✨ Key Features of Lightweight Charts
-​This repository leverages the following core strengths of the TradingView Lightweight Charts library:
-​Extremely Lightweight: At only ~35 KB, it ensures fast loading times and superior performance, even on mobile devices.
-​Powerful: Designed specifically for displaying financial data (OHLC, volume, etc.).
-​Free to Use: A robust, open-source solution for web-based charting.
-​Mobile-Friendly: Charts are responsive and work seamlessly across all screen sizes.
+[![GitHub license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![Lightweight Charts Version](https://img.shields.io/badge/Lightweight%20Charts-v4.1.0%2B-orange.svg)](https://tradingview.github.io/lightweight-charts/)
 
+## ✨ Key Features of Lightweight Charts
 
+This repository leverages the following core strengths of the TradingView Lightweight Charts library:
+
+* **Extremely Lightweight:** At only **~35 KB**, it ensures fast loading times and superior performance, even on mobile devices.
+* **Powerful:** Designed specifically for displaying financial data (OHLC, volume, etc.).
+* **Free to Use:** A robust, open-source solution for web-based charting.
+* **Mobile-Friendly:** Charts are responsive and work seamlessly across all screen sizes.
+
+## 📁 Repository Structure and Examples
+
+This repository serves as a quick-start guide, providing ready-to-run HTML files for the most common chart types.
+
+| File Name | Chart Type | Description |
+| :--- | :--- | :--- |
+| `BasicLineChart.html` | Line Chart | A fundamental example of displaying time-series data with a simple line. |
+| `BasicAreaChart.html` | Area Chart | Demonstrates a line chart with a filled area below the curve. |
+| `BasicCandleSticks.html` | Candlestick Chart | **Essential for finance.** Shows the Open, High, Low, and Close (OHLC) values. |
+| `BasicHistogramChart.html` | Histogram Chart | Ideal for visualizing volume data or other single-value metrics. |
+| `CustomTheme.html` (Suggestion) | Customization | *(If you add it)* Shows how to apply custom color schemes (e.g., dark mode) and configuration options. |
+
+## ⚙️ Getting Started
+
+Follow these simple steps to run the examples locally.
+
+### Prerequisites
+
+You only need a web browser to view these examples
 
 
 # Lightweight-Financial-Charts
