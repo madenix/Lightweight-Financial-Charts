@@ -1,5 +1,7 @@
 ​# 📈 Lightweight Financial Charts Examples
+
 ​A collection of fundamental and advanced examples demonstrating how to implement financial charts using the TradingView Lightweight Charts library.
+
 ​✨ Key Features of Lightweight Charts
 ​This repository leverages the following core strengths of the TradingView Lightweight Charts library:
 ​Extremely Lightweight: At only ~35 KB, it ensures fast loading times and superior performance, even on mobile devices.
