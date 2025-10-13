@@ -32,4 +32,18 @@ Follow these simple steps to run the examples locally.
 
 You only need a web browser to view these examples
 
+#### 1.Clone the repository
+
+```
+git clone https://github.com/madenix/Lightweight-Financial-Charts.git
+```
+
+#### 2.Run the examples
+- Navigate into the cloned directory
+- Open any *.html file (e.g., BasicCandleSticks.html) directly in your web browser
+
+## ​💡 Understand structure
+
+Since the library is loaded via CDN, the entire charting functionality is exposed through the global `LightweightCharts` object. You can verify this by opening your browser's Developer Tools (F12) and typing `window` into the console.
+
 <img width="738" height="656" alt="LightweightChartsMethods" src="https://github.com/user-attachments/assets/e11022a4-82a1-49d4-b977-18a5133e213a" />
