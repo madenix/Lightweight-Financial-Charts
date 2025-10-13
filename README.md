@@ -23,6 +23,7 @@ This repository serves as a quick-start guide, providing ready-to-run HTML files
 | `BasicAreaChart.html` | Area Chart | Demonstrates a line chart with a filled area below the curve. |
 | `BasicCandleSticks.html` | Candlestick Chart | **Essential for finance.** Shows the Open, High, Low, and Close (OHLC) values. |
 | `BasicHistogramChart.html` | Histogram Chart | Ideal for visualizing volume data or other single-value metrics. |
+| `MultiplePanes.html` | Multiple Panes  | A fundamental example of displaying multiple charts together |
 
 ## ⚙️ Getting Started
 
