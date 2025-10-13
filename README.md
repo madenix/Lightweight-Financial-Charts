@@ -1,4 +1,4 @@
-​# 📈 Lightweight Financial Charts Examples
+#​# 📈 Lightweight Financial Charts Examples
 
 A collection of fundamental and advanced examples demonstrating how to implement financial charts using the **TradingView Lightweight Charts** library.
 
