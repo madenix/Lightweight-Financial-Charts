@@ -1,6 +1,8 @@
-#​# 📈 Lightweight Financial Charts Examples
+#​# Repository Structure and Examples
 
 A collection of fundamental and advanced examples demonstrating how to implement financial charts using the **TradingView Lightweight Charts** library.
+
+** deneme **
 
 [![GitHub license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Lightweight Charts Version](https://img.shields.io/badge/Lightweight%20Charts-v4.1.0%2B-orange.svg)](https://tradingview.github.io/lightweight-charts/)
