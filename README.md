@@ -48,3 +48,5 @@ git clone https://github.com/madenix/Lightweight-Financial-Charts.git
 Since the library is loaded via CDN, the entire charting functionality is exposed through the global `LightweightCharts` object. You can verify this by opening your browser's Developer Tools (F12) and typing `window` into the console.
 
 <img width="738" height="656" alt="LightweightChartsMethods" src="https://github.com/user-attachments/assets/e11022a4-82a1-49d4-b977-18a5133e213a" />
+
+For more information visit www.madenix.com
